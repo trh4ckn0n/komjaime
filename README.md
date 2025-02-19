@@ -4,10 +4,10 @@
  <tr>
     <td>
       <br>
-     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+U7P4L-IN;"/>
-     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=trhacknon1-FR&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="trhacknon-FR"/>
+     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+trh4ckn0n;"/>
+     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=trh4ckn0n&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="trhacknon-FR"/>
       <br>
-      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=trhacknon1-FR&data=followers,repositories,stars,commits&theme=viridescent"/>
+      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=trh4ckn0n&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
       <img alt="gif" src="./assets/images/demon-sleyar.gif">
    </td>  
@@ -34,7 +34,7 @@ func main() {
   var me = new(Person)
   
   me.name     = "trhacknon"
-  me.username = "trhacknon1"
+  me.username = "trh4ckn0n"
   me.age      = "35"
   me.job      = "AI developer | Web developer"
   me.hobbies  = []string{"code", "rap", "music"," hack"," street"}
@@ -43,7 +43,7 @@ func main() {
 }
 ```
 <!--- <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a> -->
-<!--- <p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN"> -->
+<!--- <p align='center'><a href="https://api.daily.dev/get?r=trh4ckn0n"> -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
@@ -52,7 +52,7 @@ func main() {
 <p align="center">
 <a href="https://t.me/trhacknon"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=green"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=trhacknon@proton.me"><img title="proton" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://discord.gg/"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://www.youtube.com/c/UtpalCoding"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></br>
 
-<p align="center"><a href="https://twitter.com/umo_xr"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="https://facebook.com/U7P4L.XR"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://instagram.com/lamontagnesavougagne"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://U7P4L-IN.github.io/info/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
+<p align="center"><a href="https://twitter.com/umo_xr"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a><a href="https://facebook.com/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://instagram.com/lamontagnesavougagne"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a align="center"><a href="https://trh4ckn0n.github.io/info/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
@@ -60,8 +60,8 @@ func main() {
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time 
 
 <p align="center">
-    <a href="https://github.com/trhacknon1">
-          <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=trhacknon1&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
+    <a href="https://github.com/trh4ckn0n">
+          <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=trh4ckn0n&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
     <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   </a>
 </p>
@@ -201,19 +201,19 @@ func main() {
 ### 🏆GitHub Trophies
 
 <p align="center">
-    <a href="https://github.com/U7P4L-IN">
-          <img width="49%" src="https://github-profile-trophy.vercel.app/?username=U7P4L-IN&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+    <a href="https://github.com/trh4ckn0n">
+          <img width="49%" src="https://github-profile-trophy.vercel.app/?username=trh4ckn0n&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
     <img width="40%" src="https://holopin.me/amajaying3" />
   </a>
 </p>
-<p align="center"><img src="https://stardev.io/developers/U7P4L-IN/badge/languages/global.svg" width="100%"></p>
+<p align="center"><img src="https://stardev.io/developers/trh4ckn0n/badge/languages/global.svg" width="100%"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile States
 
 
 <p align="center">
-<a href="https://github.com/U7P4L-IN"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=U7P4L-IN&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<a href="https://github.com/trh4ckn0n"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trh4ckn0n&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=trh4ckn0n&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
 </p>
 
@@ -223,11 +223,11 @@ func main() {
 
 ### 📊 GitHub States
 <p align="center">
-<a href="https://github.com/U7P4L-IN"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=U7P4L-IN&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false" />
+<a href="https://github.com/trh4ckn0n"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=trh4ckn0n&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=trh4ckn0n&theme=dark&hide_border=false" />
  </a></p>
 <p align="center">
-<a href="https://github.com/U7P4L-IN">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=U7P4L-IN&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
+<a href="https://github.com/trh4ckn0n">
+<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trh4ckn0n&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=trh4ckn0n&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
   </a>
 </p>
 
