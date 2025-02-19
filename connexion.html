@@ -297,33 +297,55 @@
                 <div class="form-container row wrap-form"
                      data-controller="login">
                         <div class="loader"><div class="img-loader"></div></div>
-                    <form name="login" method="post" novalidate="novalidate" id="form-login" class="form-horizontal col-12" action="../external.html?link=https://www.commejaime.fr/connexion">
+                    <form name="login" method="post" id="form-login" class="form-horizontal col-12" onsubmit="login(event)">
+    <h1 class="title">Connexion</h1>
 
-                        <h1 class="title">Connexion</h1>
-                        <div class="form-floating block-email mb-4">
-                            <input type="email" id="login_email" name="login[email]" required="required" placeholder="mon.adresse@email.fr" type="email" class="d-block form-control form-control" />
-                            <label for="login_email" class="required">Email</label>
-                            
-                        </div>
-                        <div class="form-floating block-password mb-4">
-                            <input type="password" id="login_password" name="login[password]" required="required" placeholder="mon mot de passe" type="password" class="d-block form-control form-control" data-login-target="password" />
-                            <label for="login_password" class="required">Mot de passe</label>
-                            
-                            <span class="eye field-icon toggle-password"
-                                  data-toggle="login_password"
-                                  data-login-target="eye"
-                                  data-action="click->login#showPassword"></span>
-                        </div>
-                        <span class="forgot-pass recovery text-uppercase d-block text-end -underline">
-                            <a href="mot-de-passe-oublie.html">mot de passe oublié</a>
-                        </span>
-                        <div class="row g-0 align-items-center justify-content-center">
-                            <div class="col-12 d-flex justify-content-center align-items-center">
-                                <input class="btn btn-login cta cta-flat" type="submit" value="ENVOYER">
-                            </div>
-                        </div>
+    <div class="form-floating block-email mb-4">
+        <input type="email" id="login_email" name="email" required placeholder="mon.adresse@email.fr" class="d-block form-control form-control" />
+        <label for="login_email" class="required">Email</label>
+    </div>
 
-                                        <div id="li-antibot" data-message="Veuillez renseigner le champ de sécurité" data-controller="captcha"></div>
+    <div class="form-floating block-password mb-4">
+        <input type="password" id="login_password" name="password" required placeholder="mon mot de passe" class="d-block form-control form-control" />
+        <label for="login_password" class="required">Mot de passe</label>
+        
+        <span class="eye field-icon toggle-password"
+              data-toggle="login_password"
+              onclick="togglePassword()"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Se connecter</button>
+
+    <p id="message" style="color: red;"></p>
+</form>
+
+<script>
+function login(event) {
+    event.preventDefault();
+
+    let email = document.getElementById("login_email").value;
+    let password = document.getElementById("login_password").value;
+
+    fetch("login.php", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email, password })
+    })
+    .then(response => response.json())
+    .then(data => {
+        document.getElementById("message").textContent = data.message;
+        if (data.success) {
+            localStorage.setItem("user", email);
+            window.location.href = "dashboard.html";
+        }
+    });
+}
+
+function togglePassword() {
+    let passwordField = document.getElementById("login_password");
+    passwordField.type = (passwordField.type === "password") ? "text" : "password";
+}
+</script>                                     <div id="li-antibot" data-message="Veuillez renseigner le champ de sécurité" data-controller="captcha"></div>
                     
                         <div class="col-12 col-md-8 mt-3 text-center mx-auto"></div>
                     <input type="hidden" id="login__token" name="login[_token]" value="24effed2d03.Cr11li719yA2vIdsWDddX8NBQQnw0e-6mh1yjCzB4bM.M-8t73fEvUpl_fEYB3MEF6Z0eDCZtd3x8CVA4FjykOti7kHxXrObZ0bIvw" /></form>
