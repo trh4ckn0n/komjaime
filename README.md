@@ -1,5 +1,10 @@
 <img width=100% title="TRHACKNON" alt="TRHACKNON" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-TRHACKNON&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
+<img
+  src="https://github.com/ trh4ckn0n/komjaime/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
+
 <table border="0">
  <tr>
     <td>
